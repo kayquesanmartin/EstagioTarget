@@ -1,0 +1,14 @@
+D:\dev\c#\EstagioTargetEx2\EstagioTargetEx2\bin\Debug\net8.0\EstagioTargetEx2.exe
+D:\dev\c#\EstagioTargetEx2\EstagioTargetEx2\bin\Debug\net8.0\EstagioTargetEx2.deps.json
+D:\dev\c#\EstagioTargetEx2\EstagioTargetEx2\bin\Debug\net8.0\EstagioTargetEx2.runtimeconfig.json
+D:\dev\c#\EstagioTargetEx2\EstagioTargetEx2\bin\Debug\net8.0\EstagioTargetEx2.dll
+D:\dev\c#\EstagioTargetEx2\EstagioTargetEx2\bin\Debug\net8.0\EstagioTargetEx2.pdb
+D:\dev\c#\EstagioTargetEx2\EstagioTargetEx2\obj\Debug\net8.0\EstagioTargetEx2.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\c#\EstagioTargetEx2\EstagioTargetEx2\obj\Debug\net8.0\EstagioTargetEx2.AssemblyInfoInputs.cache
+D:\dev\c#\EstagioTargetEx2\EstagioTargetEx2\obj\Debug\net8.0\EstagioTargetEx2.AssemblyInfo.cs
+D:\dev\c#\EstagioTargetEx2\EstagioTargetEx2\obj\Debug\net8.0\EstagioTargetEx2.csproj.CoreCompileInputs.cache
+D:\dev\c#\EstagioTargetEx2\EstagioTargetEx2\obj\Debug\net8.0\EstagioTargetEx2.dll
+D:\dev\c#\EstagioTargetEx2\EstagioTargetEx2\obj\Debug\net8.0\refint\EstagioTargetEx2.dll
+D:\dev\c#\EstagioTargetEx2\EstagioTargetEx2\obj\Debug\net8.0\EstagioTargetEx2.pdb
+D:\dev\c#\EstagioTargetEx2\EstagioTargetEx2\obj\Debug\net8.0\EstagioTargetEx2.genruntimeconfig.cache
+D:\dev\c#\EstagioTargetEx2\EstagioTargetEx2\obj\Debug\net8.0\ref\EstagioTargetEx2.dll
